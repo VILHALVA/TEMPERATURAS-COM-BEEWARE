@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.19
+Name: temperatura_app
+Formal-Name: temperatura_app
+App-ID: com.example.temperatura-app
+Version: 0.0.1
+Home-page: https://example.com/temperatura_app
+Download-URL: https://example.com/temperatura_app
+Author: vilhalva
+Author-email: vilhalva@example.com
+Summary: My first application
