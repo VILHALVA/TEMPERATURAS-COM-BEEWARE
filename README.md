@@ -21,15 +21,14 @@ O aplicativo de Conversão de Temperatura desenvolvido em Python usando a biblio
    - **Visualização e Gerenciamento:** O histórico de conversões pode ser acessado para revisão ou para consultas posteriores, oferecendo uma visão detalhada das atividades realizadas.
 
 ## EXECUTANDO O PROJETO:
-1. **Instalação e Configuração:**
-   - Certifique-se de ter Python 3.12 ou superior instalado em seu ambiente.
-   - Instale a biblioteca `toga` e suas dependências utilizando o gerenciador de pacotes `pip`:
-     ```
-     pip install toga
-     ```
+1. **Instalação:**
+   - Entre no diretório `./CODIGO/temperatura_app` e execute o comando:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 2. **Executando o Aplicativo:**
-   - Navegue até o diretório `./CODIGO/temperatura_app` usando o terminal.
    - Execute o aplicativo em modo de desenvolvimento utilizando o Briefcase:
      ```
      briefcase dev
